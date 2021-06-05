@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background: slategray;
+}
+
+h1{
+    color: skyblue;
+    background: slateblue;
+    margin: 2% 30%;
+    border-radius: 20px;
+    border: 4px solid black;
+}
+
+p {
+    color: whitesmoke;
+}
